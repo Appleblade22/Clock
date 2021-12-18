@@ -26,7 +26,7 @@ const months = [
   'Sep',
   'Oct',
   'Nov',
-  'Dev',
+  'Des',
 ];
 
 toggleEl.addEventListener('click', (e) => {
